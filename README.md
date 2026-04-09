@@ -1,4 +1,4 @@
-# 📊 Explainable Credit Scoring Dashboard
+# Explainable Credit Scoring Dashboard
 
 An AI Powered Credit Risk Assessment Dashboard that explains every decision using SHAP (SHapley Additive exPlanations). Built with XGBoost, SHAP and Streamlit.
 
