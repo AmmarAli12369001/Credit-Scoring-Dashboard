@@ -4,7 +4,7 @@ An AI Powered Credit Risk Assessment Dashboard that explains every decision usin
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. Clone & Install
 
@@ -50,7 +50,7 @@ Open your browser at: `http://localhost:8501`
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 1. **User Input**: Applicant Details are entered via Sidebar Form
 2. **Preprocessing**: Inputs are Scaled using the saved Standard Scaler
@@ -60,7 +60,7 @@ Open your browser at: `http://localhost:8501`
 
 ---
 
-## 📊 Model Performance
+## Model Performance
 
 | Metric    | Score  |
 |-----------|--------|
@@ -71,7 +71,7 @@ Open your browser at: `http://localhost:8501`
 
 ---
 
-## ⚖️ Ethical Considerations
+## Ethical Considerations
 
 - SHAP Explanations are checked for over reliance on **Age** (A potentially Sensitive Feature)
 - Class imbalance is handled via **SMOTE** to prevent bias toward majority class
@@ -79,7 +79,7 @@ Open your browser at: `http://localhost:8501`
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Tool            | Purpose                    |
 |-----------------|----------------------------|
@@ -92,13 +92,13 @@ Open your browser at: `http://localhost:8501`
 
 ---
 
-## 📚 Dataset
+## Dataset
 
 **German Credit Dataset**: UCI Machine Learning Repository  
 1000 Samples, 20 Features, Binary Classification (Good/Bad Credit Risk)  
 Link: https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data
 
-## 📸 Screenshots
+## Screenshots
 
 ### 1.
 <img src="img/1.png" width="720" height="426">
